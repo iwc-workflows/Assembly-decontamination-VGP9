@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2023-11-20T11:44:03.098812",
+            "datePublished": "2023-11-23T13:33:07.956730",
             "hasPart": [
                 {
                     "@id": "Assembly-decontamination-VGP9.ga"
@@ -69,7 +69,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Assembly-decontamination-VGP9",
-            "version": "0.1.2"
+            "version": "0.1.3"
         },
         {
             "@id": "#galaxy",
