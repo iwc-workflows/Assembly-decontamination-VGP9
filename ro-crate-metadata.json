@@ -21,10 +21,13 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-09-02T14:47:14.282686",
+            "datePublished": "2025-03-18T22:07:51.029466",
             "hasPart": [
                 {
                     "@id": "Assembly-decontamination-VGP9.ga"
+                },
+                {
+                    "@id": "README.md"
                 },
                 {
                     "@id": "Assembly-decontamination-VGP9-tests.yml"
@@ -69,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Assembly-decontamination-VGP9",
-            "version": "0.3"
+            "version": "0.4"
         },
         {
             "@id": "#galaxy",
@@ -87,6 +90,10 @@
             "@id": "https://github.com/Nadolina",
             "@type": "Organization",
             "name": "Nadolina Brajuka"
+        },
+        {
+            "@id": "README.md",
+            "@type": "File"
         },
         {
             "@id": "#test_main_1",
@@ -131,7 +138,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.25"
+            "engineVersion": ">=0.75.27"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
