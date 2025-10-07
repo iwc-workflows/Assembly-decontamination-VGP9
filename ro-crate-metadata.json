@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-08-27T16:11:38.598497",
+            "datePublished": "2025-10-07T15:31:11.080930",
             "hasPart": [
                 {
                     "@id": "Assembly-decontamination-VGP9.ga"
@@ -65,6 +65,9 @@
             "creator": [
                 {
                     "@id": "https://github.com/Nadolina"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0001-6421-3484"
                 }
             ],
             "name": "Assembly-decontamination-VGP9/main",
@@ -72,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Assembly-decontamination-VGP9",
-            "version": "0.8"
+            "version": "1.0"
         },
         {
             "@id": "#galaxy",
@@ -90,6 +93,11 @@
             "@id": "https://github.com/Nadolina",
             "@type": "Organization",
             "name": "Nadolina Brajuka"
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-6421-3484",
+            "@type": "Person",
+            "name": "Delphine Lariviere "
         },
         {
             "@id": "README.md",
